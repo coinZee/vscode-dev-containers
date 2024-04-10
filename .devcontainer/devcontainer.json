@@ -51,6 +51,7 @@
 	},
 	"overrideCommand": false,
 	"hostRequirements": {
-		"memory": "6gb"
+		"memory": "8gb",
+		"storage": "512gb"
 	}
 }
