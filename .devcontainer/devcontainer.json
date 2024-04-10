@@ -51,7 +51,7 @@
 	},
 	"overrideCommand": false,
 	"hostRequirements": {
-		"cpus": "1",
+		"cpus": "2",
 		"memory": "16gb",
 		"storage": "32gb"
 	}
